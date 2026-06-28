@@ -1,0 +1,8 @@
+{
+  "name": "LiveYourDay",
+  "description": "An AI-powered productivity companion that plans, prioritizes, schedules, and actively guides you toward completing tasks before deadlines.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
